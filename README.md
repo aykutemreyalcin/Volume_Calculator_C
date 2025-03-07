@@ -6,7 +6,7 @@ This simple C program calculates the volume of a rectangular prism by taking thr
 ## How It Works
 1. The program prompts the user to enter three dimensions (`x`, `y`, and `z`).
 2. It checks if any dimension is negative:
-   - If any value is negative, it displays an error message.
+   - If any value is negative, it displays error message.
    - Otherwise, it calculates the volume as `x * y * z` and prints the result.
 
 ## Compilation & Usage
